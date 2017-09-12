@@ -8,6 +8,7 @@
 
 ## 目录
 
+1. [react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)  2017-09-12
 1. [助你完全理解React高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)  2017-09-09
 1. [从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1) 2017-09-02
 

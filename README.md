@@ -11,7 +11,6 @@
 1. [从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1) 2017-09-02
 1. [助你完全理解React高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)  2017-09-09
 1. [react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)  2017-09-12
-1. [最优美的JS代码](https://github.com/brickspert/blog/issues/4)  2017-09-15
 1. [react-family框架兼容IE8教程](https://github.com/brickspert/blog/issues/5) 2017-09-19
 1. [前端小白半年准备进BAT](https://github.com/brickspert/blog/issues/16) 2018-04-09
 

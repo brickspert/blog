@@ -13,6 +13,7 @@
 1. [react-router v4 使用 history 控制路由跳转](https://github.com/brickspert/blog/issues/3)  2017-09-12
 1. [react-family框架兼容IE8教程](https://github.com/brickspert/blog/issues/5) 2017-09-19
 1. [前端小白半年准备进BAT](https://github.com/brickspert/blog/issues/16) 2018-04-09
+1. [CSS单边颜色渐变倒计时圆环实现](https://github.com/brickspert/blog/issues/20) 2018-08-20
 
 ## 建博初衷
 

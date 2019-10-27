@@ -17,6 +17,7 @@
 1. [完全理解 redux（从零实现一个 redux）](https://github.com/brickspert/blog/issues/22) 2018-11-11
 1. [React Hooks 原理](https://github.com/brickspert/blog/issues/26) 2019-04-11
 1. [React Custom Hooks 最佳实践](https://github.com/brickspert/blog/issues/31) 2019-10-13
+1. [hox - 下一代 React 状态管理器](https://github.com/brickspert/blog/issues/32) 2019-10-27
 
 ## 建博初衷
 

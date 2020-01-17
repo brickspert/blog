@@ -18,6 +18,7 @@
 1. [React Hooks 原理](https://github.com/brickspert/blog/issues/26) 2019-04-11
 1. [React Custom Hooks 最佳实践](https://github.com/brickspert/blog/issues/31) 2019-10-13
 1. [antd 自定义 Icon 的几种方式及其优劣](https://github.com/brickspert/blog/issues/33) 2019-12-08
+1. [Umi Hooks - 助力拥抱 React Hooks](https://github.com/brickspert/blog/issues/34) 2020-01-17
 
 
 ## 建博初衷

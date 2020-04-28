@@ -30,6 +30,6 @@
 
 ## ❤️感谢大家
 
-关注公众号「前端开发砖家」，拉你进交流群，大家一起共同交流和进步。
+关注公众号「前端技术砖家」，拉你进交流群，大家一起共同交流和进步。
 
-![image](https://user-images.githubusercontent.com/12526493/80387560-5c8a3c00-88db-11ea-9bf5-ed7271043f5b.png)
+![image](https://user-images.githubusercontent.com/12526493/80437152-76f00400-8933-11ea-8a95-edda05152736.png)

@@ -21,6 +21,7 @@
 1. [Umi Hooks - 助力拥抱 React Hooks](https://github.com/brickspert/blog/issues/34) 2020-01-17
 1. [useRequest-蚂蚁中台标准请求 Hooks](https://github.com/brickspert/blog/issues/35) 2020-02-13
 1. [React 项目性能分析及优化](https://github.com/brickspert/blog/issues/36) 2020-03-30
+1. [Pull Request 与 Merge Request 的区别](https://github.com/brickspert/blog/issues/37) 2020-05-07
 
 
 ## 建博初衷

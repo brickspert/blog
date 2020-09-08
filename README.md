@@ -23,6 +23,7 @@
 1. [React 项目性能分析及优化](https://github.com/brickspert/blog/issues/36) 2020-03-30
 1. [Pull Request 与 Merge Request 的区别](https://github.com/brickspert/blog/issues/37) 2020-05-07
 1. [Recoil - Facebook 官方 React 状态管理器](https://github.com/brickspert/blog/issues/38) 2020-05-17
+1. [基于微前端的大型中台项目融合方案](https://github.com/brickspert/blog/issues/41) 2020-08-28
 
 
 ## 建博初衷

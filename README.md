@@ -24,7 +24,7 @@
 1. [Pull Request 与 Merge Request 的区别](https://github.com/brickspert/blog/issues/37) 2020-05-07
 1. [Recoil - Facebook 官方 React 状态管理器](https://github.com/brickspert/blog/issues/38) 2020-05-17
 1. [基于微前端的大型中台项目融合方案](https://github.com/brickspert/blog/issues/41) 2020-08-28
-
+1. [React Hooks 在 react-refresh 模块热替换（HMR）下的异常行为](https://github.com/brickspert/blog/issues/42) 2021-05-10
 
 ## 建博初衷
 

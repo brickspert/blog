@@ -26,6 +26,7 @@
 1. [基于微前端的大型中台项目融合方案](https://github.com/brickspert/blog/issues/41) 2020-08-28
 1. [React Hooks 在 react-refresh 模块热替换（HMR）下的异常行为](https://github.com/brickspert/blog/issues/42) 2021-05-10
 1. [React Hooks 在 SSR 模式下常见问题及解决方案](https://github.com/brickspert/blog/issues/43) 2021-05-17
+1. [React Hooks 使用误区，驳官方文档](https://github.com/brickspert/blog/issues/45) 2021-12-27
 
 ## 建博初衷
 

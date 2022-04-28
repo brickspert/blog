@@ -30,6 +30,7 @@
 1. [如何升级到 React 18](https://github.com/brickspert/blog/issues/46) 2022-03-24
 1. [React 18 对 Hooks 的影响：一](https://github.com/brickspert/blog/issues/47) 2022-03-31
 2. [React 18 总览](https://github.com/brickspert/blog/issues/48) 2022-04-15
+3. [我认为 web3 是什么（大白话 web3）](https://github.com/brickspert/blog/issues/49) 2022-04-28
 
 ## 建博初衷
 

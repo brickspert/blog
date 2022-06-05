@@ -32,6 +32,7 @@
 2. [React 18 总览](https://github.com/brickspert/blog/issues/48) 2022-04-15
 3. [我认为 web3 是什么（大白话 web3）](https://github.com/brickspert/blog/issues/49) 2022-04-28
 3. [React useEvent：砖家说的没问题](https://github.com/brickspert/blog/issues/50) 2022-05-15
+4. [Base64 编码原来这么简单](https://github.com/brickspert/blog/issues/51) 2022-06-05
 
 ## 建博初衷
 

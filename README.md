@@ -34,6 +34,7 @@
 1. [React useEvent：砖家说的没问题](https://github.com/brickspert/blog/issues/50) 2022-05-15
 1. [Base64 编码原来这么简单](https://github.com/brickspert/blog/issues/51) 2022-06-05
 1. [我要去哪里？- 写在我的 30 岁](https://github.com/brickspert/blog/issues/53) 2022-07-10
+1. [前端好还是后端好，看看7年前端和后端怎么说](https://github.com/brickspert/blog/issues/54) 2022-08-21
 
 ## 建博初衷
 

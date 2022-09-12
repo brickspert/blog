@@ -37,6 +37,7 @@
 1. [前端好还是后端好，看看7年前端和后端怎么说](https://github.com/brickspert/blog/issues/54) 2022-08-21
 1. [只想做开源项目、技术项目，不想做业务，有办法吗？](https://github.com/brickspert/blog/issues/55) 2022-08-28
 1. [前端小白半年准备进大厂](https://github.com/brickspert/blog/issues/56) 2022-09-04
+1. [程序员如何实现财富自由](https://github.com/brickspert/blog/issues/57) 2022-09-12
 
 
 ## 建博初衷

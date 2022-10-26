@@ -38,6 +38,7 @@
 1. [只想做开源项目、技术项目，不想做业务，有办法吗？](https://github.com/brickspert/blog/issues/55) 2022-08-28
 1. [前端小白半年准备进大厂](https://github.com/brickspert/blog/issues/56) 2022-09-04
 1. [程序员如何实现财富自由](https://github.com/brickspert/blog/issues/57) 2022-09-12
+1. [离职后聊一聊我眼中的蚂蚁](https://github.com/brickspert/blog/issues/58) 2022-10-26
 
 
 ## 建博初衷

@@ -40,6 +40,7 @@
 1. [程序员如何实现财富自由](https://github.com/brickspert/blog/issues/57) 2022-09-12
 1. [离职后聊一聊我眼中的蚂蚁](https://github.com/brickspert/blog/issues/58) 2022-10-26
 1. [前端工程师个人的价值在哪里（换一个人能不能做？）【前端晋升必看】](https://github.com/brickspert/blog/issues/59) 2022-11-06
+1. [蚂蚁集团前端研发质量、效率、体验平衡实践](https://github.com/brickspert/blog/issues/60) 2022-11-14
 
 
 ## 建博初衷

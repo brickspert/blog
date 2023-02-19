@@ -41,6 +41,7 @@
 1. [离职后聊一聊我眼中的蚂蚁](https://github.com/brickspert/blog/issues/58) 2022-10-26
 1. [前端工程师个人的价值在哪里（换一个人能不能做？）【前端晋升必看】](https://github.com/brickspert/blog/issues/59) 2022-11-06
 1. [2022 年：我在死亡边缘走过](https://github.com/brickspert/blog/issues/61) 2023-01-02
+1. [前端质量体系之纸上谈兵](https://github.com/brickspert/blog/issues/62) 2023-02-19
 
 
 ## 建博初衷

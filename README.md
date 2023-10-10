@@ -44,6 +44,7 @@
 1. [前端质量体系之纸上谈兵](https://github.com/brickspert/blog/issues/62) 2023-02-19
 1. [大白话虚拟货币理财原理](https://github.com/brickspert/blog/issues/63) 2023-05-28
 1. [前端没了？也许是刚开始](https://github.com/brickspert/blog/issues/64) 2023-06-18
+1. [Telegram bot 和 mini apps 开发简易教程](https://github.com/brickspert/blog/issues/65) 2023-10-10
 
 
 ## 建博初衷
